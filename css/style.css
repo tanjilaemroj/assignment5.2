@@ -1,0 +1,53 @@
+{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 10px;
+    background-color: #96c3fc;
+}
+.header_height{
+    height: 60px;
+     border: 2px solid red;
+    margin: 20px 0px;
+     background-color: #c9e0ff;        
+}
+.hero_contant{
+    height: 60px;
+    margin-top: 20px;
+    
+   border: 2px solid red;
+    background-color: #c9e0ff;
+}
+
+ .left_body{
+    min-height: 100px;
+    margin-top: 20px;
+    border: 2px solid red;
+    background-color: #c9e0ff;
+    
+    
+}
+.right_body{
+    height: 120px;
+    margin-top: 10px;
+    background-color: #c9e0ff; 
+}
+.body_contant{
+    height: 250px;
+    margin-top: 20px;
+   border: 2px solid red;
+    background-color: #c9e0ff;
+     margin-bottom: 10px;
+}
+.sidebar_contant{
+     height: 100px;
+    margin-top: 20px;
+   border: 2px solid red;
+    background-color: #c9e0ff;
+    margin-bottom: 10px;
+}
+.footer_contant{
+    min-height: 100px;
+    margin: 10px 0;
+}   
